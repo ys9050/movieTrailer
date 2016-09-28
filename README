@@ -1,0 +1,13 @@
+Documentation for main.py
+-------------
+
+The main.py imports fresh_tomatoes and data to create a movie trailer
+webpage. fresh_tomatoes file is provided by Udacity. data holds instances
+of Movie classes which are taken as arguments in fresh_tomatoes and imports
+media. media holds class definition and constructor for Movies, which holds
+movie title, movie summary, url to movie's poster, and url to youtube link
+for its trailer.
+    
+Link for fresh_tomatoes.py
+
+https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py
